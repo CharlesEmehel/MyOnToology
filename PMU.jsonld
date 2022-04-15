@@ -161,7 +161,8 @@
         "observedAt": "2017-05-04T12:30:00Z"
      },
    "@context": [
-          "https://raw.githubusercontent.com/I-NERGY/i-nergy.datamodel/master/Resources/Context-Information/Core-Context.NGSILd.jsonld",
-          "https://raw.githubusercontent.com/I-NERGY/i-nergy.datamodel/master/Resources/Context-Information/PMU/PMU.jsonld"
+         "https://raw.githubusercontent.com/I-NERGY/i-nergy.datamodel/master/Resources/Context-Information/PMU/PMU.jsonld",
+         "https://smartdatamodels.org/context.jsonld",
+         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"  
    ]
  }
