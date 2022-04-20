@@ -162,6 +162,7 @@
      },
    "@context": [
          "https://raw.githubusercontent.com/I-NERGY/i-nergy.datamodel/master/Resources/Context-Information/PMU/PMU.jsonld",
+         "https://sargon-n5geh.netlify.app/ontologies/Sargon.ttl",
          "https://smartdatamodels.org/context.jsonld",
          "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"  
    ]
