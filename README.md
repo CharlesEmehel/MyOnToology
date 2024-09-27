@@ -1,3 +1,3 @@
 # Internet of Things
 
-This is a public repo authorised for OnToology tool validation (with OPPS!) and publishing.
+Energy Platform for Internet of Electric Grid Things.
